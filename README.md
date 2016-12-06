@@ -1,4 +1,8 @@
 # udacity-projects
-Sources:
-Udacity. fresh_tomatoes.py. 05 December 2016
-Udacity. Programming Foundations with Python.
+Movie Trailer v1.0
+
+GENERAL USAGE:
+1.) Look for a file named entertainment_center.py
+2.) Double click the file and default browser will open
+
+05 December 2016
