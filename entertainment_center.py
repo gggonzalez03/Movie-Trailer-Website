@@ -23,4 +23,5 @@ deadpool = media.Movie("Deadpool",
 
 favorite_movies = [guardians_of_the_galaxy, hunger_games, upside_down, deadpool]
 
+#Use favorite_movies list to generate HTML and open it in the default browser
 fresh_tomatoes.open_movies_page(favorite_movies)
