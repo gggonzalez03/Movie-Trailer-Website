@@ -24,6 +24,3 @@ deadpool = media.Movie("Deadpool",
 movies = [guardians_of_the_galaxy, hunger_games, upside_down, deadpool]
 
 fresh_tomatoes.open_movies_page(movies)
-
-print(media.Movie.VALID_RATINGS)
-print(media.Movie.__bases__)
