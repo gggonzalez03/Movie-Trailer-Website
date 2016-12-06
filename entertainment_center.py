@@ -21,6 +21,6 @@ deadpool = media.Movie("Deadpool",
                        "http://www.flickeringmyth.com/wp-content/uploads/2016/01/Deadpool-poster-2-600x875.jpg",
                        "https://www.youtube.com/watch?v=ZIM1HydF9UA")
 
-movies = [guardians_of_the_galaxy, hunger_games, upside_down, deadpool]
+favorite_movies = [guardians_of_the_galaxy, hunger_games, upside_down, deadpool]
 
-fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(favorite_movies)
